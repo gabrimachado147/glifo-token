@@ -1,6 +1,6 @@
 {
   "name": "GLIFO Token List",
-  "logoURI": "https://i.imgur.com/glifoicon.png",
+  "logoURI": "https://raw.githubusercontent.com/gabrimachado147/glifo-token/main/gilfo.png",
   "keywords": ["meme", "cult", "glifo", "loor"],
   "timestamp": "2025-07-22T01:50:00+00:00",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "GLIFO",
       "symbol": "GLIFO",
       "decimals": 18,
-      "logoURI": "https://i.imgur.com/glifoicon.png"
+      "logoURI": "https://raw.githubusercontent.com/gabrimachado147/glifo-token/main/gilfo.png"
     }
   ],
   "version": {
