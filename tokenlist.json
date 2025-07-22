@@ -1,0 +1,21 @@
+{
+  "name": "GLIFO Token List",
+  "logoURI": "https://raw.githubusercontent.com/gabrimachado147/glifo-token/main/glifo.png",
+  "keywords": ["meme", "cult", "glifo", "loor"],
+  "timestamp": "2025-07-22T01:50:00+00:00",
+  "tokens": [
+    {
+      "chainId": 84532,
+      "address": "0xd0B08892fc3420D02c0D9019cB7809DCcB50fcB7",
+      "name": "GLIFO",
+      "symbol": "GLIFO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gabrimachado147/glifo-token/main/glifo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
